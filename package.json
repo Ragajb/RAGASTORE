@@ -1,0 +1,22 @@
+{
+  "name": "Fazd-Md",
+  "version": "1.2.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fazd Team",
+  "license": "MIT",
+  "devDependencies": {
+    "node": "^16.13.0"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.1",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "axios": "latest",
+    "node-fetch": "latest",
+    "chalk": "^4.1.2"
+  },
+  "description": "Fazd - Multi Device"
+}
